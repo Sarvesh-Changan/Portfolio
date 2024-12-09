@@ -70,6 +70,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Kalwa, Thane ",
-  phoneNo: "+91 810 461 0045 ",
+  phoneNo: "+91 8104610045 ",
   email: "changansarvesh0@gmail.com",
 };
