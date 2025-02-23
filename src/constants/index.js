@@ -30,6 +30,15 @@ Customised my application and ran automated tests to ensure it rendered properly
 
 export const PROJECTS = [
   {
+    title: "Online Job Portal",
+    image: jobImage,
+    description:
+      "Developed a full-stack job portal using the MERN stack that connects job seekers with employers, featuring job listings, application processes, and automated email notifications. Integrated a cutting-edge AI Resume Builder to empower users to create professional, tailored resumes, enhancing the overall job search experience.",
+    technologies: ["MongoDB", "Express", "React", "Node.js"],
+    ViewLink: 'https://online-job-portal-o1cv.onrender.com',
+    githubLink: 'https://github.com/Sarvesh-Changan/ONLINE-JOB-PORTAL',
+  },
+  {
     title: "Fitness App",
     image: project1,
     description:
