@@ -2,6 +2,7 @@ import project1 from "../assets/projects/project-1.png";
 import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.png";
+import project4 from "../assets/projects/jobImage.png";
 
 export const HERO_CONTENT = `I am a passionate Web Developer with expertise in front-end technologies like HTML5, CSS3, JavaScript, React.js, Tailwind CSS, and Material UI, complemented by back-end experience with Firebase. With a focus on creating seamless user interfaces and efficient back-end solutions, my goal is to leverage my skills to craft innovative and impactful web applications that drive success and deliver outstanding user experiences.`;
 
